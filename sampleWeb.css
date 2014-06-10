@@ -1,0 +1,236 @@
+html {
+    background-color: #e6e9e9;
+    background-image: linear-gradient(270deg,rgb(230,233,233) 0%,rgb(216,221,221) 100%);
+    /*background-image: -o-linear-gradient(270deg,rgb(230,233,233) 0%,rgb(216,221,221) 100%);
+    background-image: -moz-linear-gradient(270deg,rgb(230,233,233) 0%,rgb(216,221,221) 100%);
+    background-image: -webkit-linear-gradient(270deg,rgb(230,233,233) 0%,rgb(216,221,221) 100%);
+    background-image: -ms-linear-gradient(270deg,rgb(230,233,233) 0%,rgb(216,221,221) 100%);
+    
+
+ /*background: url(translucent.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+}
+
+
+body {
+  text-align: center;
+    height: 10000px;
+  
+}
+.heading2 {
+  text-align:right;
+  background-color: #A6BFC6;
+  margin-left:22%;
+  margin-right:22%;
+  margin-top: -25px;
+  font-family: 'Tangerine', serif;
+  font-size: 30px;
+  height: 42px;
+  }
+
+#namanyay-search-btn {
+margin-left: -35%;
+background:#0099ff;
+color:white;
+font: 'trebuchet ms', trebuchet;
+padding:10px 20px;
+border-radius:0 10px 10px 0;
+-moz-border-radius:0 10px 10px 0;
+-webkit-border-radius:0 10px 10px 0;
+-o-border-radius:0 10px 10px 0;
+border:0 none;
+font-weight:bold;
+ 
+}
+ 
+#namanyay-search-box {
+margin-left: -10%;   
+background: #eee;
+padding:10px;
+ border-radius:10px 0 0 10px;
+-moz-border-radius:10px 0 0 10px;
+-webkit-border-radius:10px 0 0 10px;
+-o-border-radius:10px 0 0 10px;
+border:0 none;
+width:180px;
+}
+.links {
+  margin-left: 22%;  
+  margin-right: 25%;
+}
+.Home{border-bottom: 2px solid white;font-size: 15px;margin:20px;margin-top: -2px;}
+.Home:hover {border-bottom-color: blue;}
+
+.source{border-bottom: 2px solid white;font-size: 15px;margin:20px;margin-top: -2px;}
+.source:hover {border-bottom-color: blue;}
+
+.GoogleX{border-bottom: 2px solid white;font-size: 15px;margin:20px;margin-top: -2px;}
+.GoogleX:hover {border-bottom-color: blue;}
+
+.about{border-bottom: 2px solid white;font-size: 15px;margin:20px;margin-top: -2px;}
+.about:hover {border-bottom-color: blue;}
+
+.heading1 {
+  text-align: center;
+  
+  font-family: Didot, Georgia, Garamond, ‘Times New Roman’,     Times, serif;
+  background-color: #fff;
+  height: 235px;
+  margin-top: 0px;
+  opacity: 1.0;
+}
+.subHeading {
+-webkit-filter: contrast(150%);
+  margin-left: 22%;
+ 
+  margin-right: 22%;
+  height: 200px;
+  background-image: url('hue.png');
+}
+.logoleft{
+    margin-top:6%;
+    margin-left: 4%;
+    height:40%;
+    width:8.5%;
+    float: left;
+    border-radius:65px;
+    background:#000;
+}
+.logoright{
+    margin-top:6%;
+    margin-left: -3%;
+    height:40%;
+    width:8.5%;
+    float: left;
+    border-radius:65px;
+    background:#000;
+}
+.logomiddle{
+   margin-top:7%;
+    margin-left: -9%;
+    height:30%;
+    width:4%;
+    float: left;
+    border-radius:200px;
+    background:#fff;  
+}
+
+
+
+
+ 
+.fb-comments {
+            background-color: #fff;
+}
+.first, .second, .third {
+   margin-left:-10%;
+    
+}
+.article1, .article2 {align-items:
+  top: 15px;
+  margin-left: 2%;
+  margin-right: 22%;
+  
+  margin-top:.3%;
+  background-color: #fff;
+  text-align: left;
+  padding:10px;
+  border-radius: 3px;
+  opacity: 1.0;
+  
+        
+  
+}
+.top-right {
+    width: 10px;
+    height: 20px;
+    float:right;
+}
+.left {
+  float: right;
+  padding: 0% 0% 0% 2%;
+  width: 19%;
+  text-align:center;
+  background-color: #fff;
+  opacity: .8;
+  border-radius: 3px;
+
+  
+}
+
+.footer {
+  padding-top: 2%;
+  text-align: center;
+  clear: both;
+}
+h1{
+  font-family: 'Alef', sans-serif;
+    font-size:14px;
+}
+
+h2 {
+    color: #3e6474;
+    font-weight: 120;
+    line-height: 1.3em;
+    font-family: 'Duru Sans', sans-serif;
+    
+}
+
+
+h3 {
+ font-family: 'Nixie One', cursive;
+}
+h4{
+  font-family: 'Gafata', sans-serif; 
+  font-size:29px;
+}
+
+
+.addthis_toolbox addthis_default_style {
+    margin-left: 10px;
+}
+
+.share {
+    
+    width:250px;
+    margin-left:2%;
+    height:170px;
+}
+
+.about {
+    float:left;
+    margin-left: 1%;
+    height: 41px;
+}
+.source {
+    float:left;
+    margin-left: 1%;
+    height: 41px;
+}
+
+.GoogleX {
+    float:left;
+    margin-left: 1%;
+    height: 41px;
+   
+}
+.Home {
+    float:left;
+    margin-left: 1%;
+    height: 41px;
+}
+.title {
+    float:left;
+    font-size:12px;
+    margin-left:3%
+}
+.quote {
+ font-size:10px;
+ 
+}
+.footer{
+ background-color: #fff;   
+}
